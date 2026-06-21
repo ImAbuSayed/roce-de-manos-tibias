@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-manos-tibias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Roce de manos tibias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-manos-tibias/) |
+| **Get License** | [Music Rights & Licensing for Roce de manos tibias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-manos-tibias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> La noche está fría, pero el roce de tus manos tibias me quema
+> Bailando en la sombra, rompiendo toditos los esquemas
+> Tú tienes el flow que me atrapa, la vibe que envenena
+> Baby, tú y yo en la party somos la mejor escena
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
