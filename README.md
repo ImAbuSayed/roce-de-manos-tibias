@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Roce de manos tibias |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-manos-tibias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Roce de manos tibias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-manos-tibias/) |
+| **Get License** | [Secure Licensing Rights for Roce de manos tibias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-manos-tibias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> La noche está fría, pero el roce de tus manos tibias me quema
-> Bailando en la sombra, rompiendo toditos los esquemas
-> Tú tienes el flow que me atrapa, la vibe que envenena
-> Baby, tú y yo en la party somos la mejor escena
+> Roce de manos tibias bajo la luna llena
+> Tu piel pide guerra y yo sin cadenas
+> Se apaga la ciudad, solo importa tu voz
+> Noche de perreo lento, solo tú y yo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
