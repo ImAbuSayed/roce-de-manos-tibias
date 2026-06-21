@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce de manos tibias
+
+This log tracks the cryptographic history and versioning for the song **Roce de manos tibias** (roce-de-manos-tibias).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T05:20:23.016822 | `v1` | `450a2b80fdda24c7d1ea184010ba07ad89f6aa75f37d7a9f06799211798de88a` | `fc4e52027f4bfce28124c00300695930e13a566e5747916d1d60b976d507fd85` | `2026-06-22_roce-de-manos-tibias-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
