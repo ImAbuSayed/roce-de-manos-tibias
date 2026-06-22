@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-manos-tibias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Roce de manos tibias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-manos-tibias/) |
+| **Get License** | [Commercial Licensing for Roce de manos tibias](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-manos-tibias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `450a2b80fdda24c7d1ea184010ba07ad89f6aa75f37d7a9f06799211798de88a` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `805d44f2f56b6884a2f474227b1dfd00f94e0c8f176a7e5957435ece28278f09` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
